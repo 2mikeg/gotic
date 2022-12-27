@@ -131,3 +131,5 @@ dmypy.json
 .DS_Store
 
 test_models
+
+main.py
